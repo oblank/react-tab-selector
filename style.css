@@ -12,6 +12,7 @@ body {
 
 .tab-selector {
   overflow: hidden;
+  border:5px solid #db2f9b;
 }
 
 .tab-selector label {
